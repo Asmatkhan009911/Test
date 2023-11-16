@@ -20,4 +20,6 @@ rm -rf Test
 
 git clone  https://github.com/Asmatkhan009911/Test/
 
-python File.py
+cd Test
+
+python 2.0.py
